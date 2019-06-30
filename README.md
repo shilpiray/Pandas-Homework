@@ -1,4 +1,4 @@
-PyCity Schools Analysis
+# PyCity Schools Analysis
 
 •	The schools with lower budgets ($585-645) is performing well with the overall passing rate of 95%. On the contrary, schools with higher spending per student ($645-675) underperformed with passing rate of 74%.
 
